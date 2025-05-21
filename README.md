@@ -80,8 +80,3 @@ solar-challenge-week1/
 ├── .gitignore  
 ├── requirements.txt  
 ├── README.md  
-=======
-1. Clone the repo
-2. Set up Python virtual environment, create .gitignore, requirements.txt, and CI/CD workflow
-3. Install dependencies:
->>>>>>> main
